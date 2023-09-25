@@ -1,3 +1,15 @@
+#titulo-h2 {
+    color: lightskyblue;
+}
+
+.fundo-azul {
+    background-color: aquamarine;
+}
+
+.texto-verde {
+    color: darkgreen;
+}
+
 h1 {
     color: cornflowerblue;
 }
@@ -9,4 +21,5 @@ h2 {
 p {
     color: royalblue;
 }
+ 
 
