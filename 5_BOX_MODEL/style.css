@@ -1,0 +1,18 @@
+.caixa_width {
+    
+    /* shorthand ==> vários valores na mesma propriedade*/
+    border: 2px solid royalblue;
+
+    width: 200px;
+}
+
+.imagem-width {
+    width: 400px;
+}
+
+.caixa-height {
+    border: 1px dashed rebeccapurple;
+
+    height: 100px;
+    width: 100px;
+}
